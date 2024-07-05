@@ -1,6 +1,5 @@
 [![plangloi's 42 stats](https://badge.mediaplus.ma/black/plangloi?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
-# 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Felipe-LNGS&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Felipe-LNGS&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe-LNGS&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
